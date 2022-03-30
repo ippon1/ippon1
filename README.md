@@ -32,7 +32,7 @@
     <!-- Swift, Android -->
 </p>
 
-### Software and tools
+### Tools
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
