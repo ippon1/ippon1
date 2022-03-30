@@ -1,20 +1,8 @@
-- 👋 Hi, I’m @ippon1
-- 👀 I’m interested in ...
+## How to reach me ...
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/ippon1)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/simonreisinger)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/simonreisinger)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/IPPON001)
-
-<!---
-ippon1/ippon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 
 ## Skills
  
@@ -56,3 +44,8 @@ You can click the Preview link to take a look at your changes.
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
      <a href="#"><img alt="SVN" src="https://img.shields.io/twitter/url?color=black&label=SVN&logo=subversion&url=https%3A%2F%2Fsimpleicons.org%2F%3Fq%3Dsubvers" height="20"></a>    
 </p> 
+
+<!---
+ippon1/ippon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
