@@ -41,6 +41,7 @@
     <a href="#"><img alt="PHP Storm" src="https://img.shields.io/badge/PhpStorm-143?&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"></a>
     <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-143?&logo=Pycharm&logoColor=black&color=black&labelColor=green"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <!-- Atom -->   
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p> 
